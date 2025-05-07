@@ -1,5 +1,7 @@
 opencv-python
 face-recognition
+face_recognition-models
 imutils
 cmake
 numpy
+setuptools
