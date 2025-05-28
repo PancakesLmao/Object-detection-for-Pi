@@ -9,3 +9,9 @@ source project_env/bin/activate
 ```
 pip install -r requirements.txt
 ```
+```
+python generate_encodings.py
+```
+```
+python facial_recognition.py
+```
